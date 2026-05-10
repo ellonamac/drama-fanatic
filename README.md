@@ -1,1 +1,3 @@
-# drama-fanatic
+# Drama Fanatic
+
+README coming soon..

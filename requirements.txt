@@ -1,0 +1,9 @@
+# Minimal Python dependencies for Drama Fanatic
+streamlit
+kagglehub
+kaggle
+pandas
+numpy
+scikit-learn
+plotly
+Pillow
